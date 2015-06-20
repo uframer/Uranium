@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#af75833d5891e46c8fc0c77447058aff3":[3,0,0,20,0,1,0,6],
+"classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#afff3d084bf5ca66ee658599e92ca34e1":[3,0,0,20,0,1,0,5],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html":[3,0,0,20,1,0],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html#a06a5c4dfdf0624639644d586dba49030":[3,0,0,20,1,0,2],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html#a0b2efd06b33bbfc7af6521383c75ac3b":[3,0,0,20,1,0,5],
@@ -239,15 +241,13 @@ var NAVTREEINDEX2 =
 "classes.html":[3,1],
 "dir_e40c8783eca56218b28e230c9f341554.html":[4,0,0],
 "files.html":[4,0],
-"functions.html":[3,3,0],
 "functions.html":[3,3,0,0],
+"functions.html":[3,3,0],
 "functions_a.html":[3,3,0,1],
 "functions_b.html":[3,3,0,2],
 "functions_c.html":[3,3,0,3],
 "functions_d.html":[3,3,0,4],
 "functions_e.html":[3,3,0,5],
 "functions_f.html":[3,3,0,6],
-"functions_func.html":[3,3,1],
-"functions_func.html":[3,3,1,0],
-"functions_func_a.html":[3,3,1,1]
+"functions_func.html":[3,3,1]
 };
