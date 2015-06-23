@@ -8,6 +8,8 @@ var classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow =
     [ "mouseMoveEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a66caf906d043c8b2bfb2f6e10c945434", null ],
     [ "mousePressEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#abf800721fb0238b4bf99bcfc6b861ae8", null ],
     [ "mouseReleaseEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#aa2268d54a1ae5c053511bdf23b082e0c", null ],
+    [ "mouseX", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#ade6ae8b0202275ecd7366f37382c9717", null ],
+    [ "mouseY", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#ae3da40b86237e5dfb3163134f6634460", null ],
     [ "resizeEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a892934b17643e0fbaf24f19660960b68", null ],
     [ "setBackgroundColor", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a924bf262e9964602cc4b5f2c7ee65cbd", null ],
     [ "wheelEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#af3fe5c0dc0a092e4626b63e027e13c58", null ]
