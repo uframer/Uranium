@@ -3,6 +3,8 @@ var searchData=
   ['todo_20list',['Todo List',['../todo.html',1,'']]],
   ['tool',['Tool',['../classUM_1_1Tool_1_1Tool.html',1,'UM::Tool']]],
   ['toolevent',['ToolEvent',['../classUM_1_1Event_1_1ToolEvent.html',1,'UM::Event']]],
+  ['tooloperationstarted',['toolOperationStarted',['../classUM_1_1Controller_1_1Controller.html#a47daafc15c80f4a3e25bc54a4fca7715',1,'UM::Controller::Controller']]],
+  ['tooloperationstopped',['toolOperationStopped',['../classUM_1_1Controller_1_1Controller.html#aeedf451852c568aef558c494c1c341a5',1,'UM::Controller::Controller']]],
   ['toolschanged',['toolsChanged',['../classUM_1_1Controller_1_1Controller.html#a766fd259d4aaed61c70fb454dbb7b167',1,'UM::Controller::Controller']]],
   ['tostring',['toString',['../classUM_1_1Mesh_1_1Vertex_1_1Vertex.html#ac9cfef3b29974fc4173f8bf82a690379',1,'UM::Mesh::Vertex::Vertex']]],
   ['transformationchanged',['transformationChanged',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a2b5158a33683c0a1ca35458e0ff9dc20',1,'UM::Scene::SceneNode::SceneNode']]],

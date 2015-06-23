@@ -194,6 +194,12 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>setPluginId</b></td></
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
+<tr class="memitem:abcd71799f6d4fca639f01429499f1a90"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#abcd71799f6d4fca639f01429499f1a90">operationStarted</a> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
+<tr class="memdesc:abcd71799f6d4fca639f01429499f1a90"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should be emitted whenever a longer running operation is started, like a drag to scale an object.  <a href="#abcd71799f6d4fca639f01429499f1a90">More...</a><br /></td></tr>
+<tr class="separator:abcd71799f6d4fca639f01429499f1a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#ac3d75c9c646333a0a2c343e9ad75c24c">operationStopped</a> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
+<tr class="memdesc:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should be emitted whenever a longer running operation is stopped.  <a href="#ac3d75c9c646333a0a2c343e9ad75c24c">More...</a><br /></td></tr>
+<tr class="separator:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a14463f7c9875599509bbe51d8ce57c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1a14463f7c9875599509bbe51d8ce57c"></a>
 tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
 <tr class="separator:a1a14463f7c9875599509bbe51d8ce57c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -308,6 +314,63 @@ tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> 
 
 </div>
 </div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="abcd71799f6d4fca639f01429499f1a90"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">tuple UM.Tool.Tool.operationStarted = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Should be emitted whenever a longer running operation is started, like a drag to scale an object. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">tool</td><td>The tool that started the operation. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="ac3d75c9c646333a0a2c343e9ad75c24c"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">tuple UM.Tool.Tool.operationStopped = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Should be emitted whenever a longer running operation is stopped. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">tool</td><td>The tool that stopped the operation. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>UM/Tool.py</li>
 </ul>
@@ -317,7 +380,7 @@ tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> 
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceUM.html">UM</a></li><li class="navelem"><b>Tool</b></li><li class="navelem"><a class="el" href="classUM_1_1Tool_1_1Tool.html">Tool</a></li>
-    <li class="footer">Generated on Mon Jun 22 2015 06:25:04 for Uranium by
+    <li class="footer">Generated on Tue Jun 23 2015 06:25:04 for Uranium by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
