@@ -140,9 +140,6 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>setExposedProperties</
 <tr class="memitem:ada0b9b9f225aaeeaac2ea990adfd128a"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#ada0b9b9f225aaeeaac2ea990adfd128a">event</a></td></tr>
 <tr class="memdesc:ada0b9b9f225aaeeaac2ea990adfd128a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handle an event.  <a href="#ada0b9b9f225aaeeaac2ea990adfd128a">More...</a><br /></td></tr>
 <tr class="separator:ada0b9b9f225aaeeaac2ea990adfd128a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac86e7e08249c204de448b1d82c997760"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#ac86e7e08249c204de448b1d82c997760">updateHandlePosition</a></td></tr>
-<tr class="memdesc:ac86e7e08249c204de448b1d82c997760"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update the position of the ToolHandle.  <a href="#ac86e7e08249c204de448b1d82c997760">More...</a><br /></td></tr>
-<tr class="separator:ac86e7e08249c204de448b1d82c997760"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afcb9811d143654be77063c89c0e5f8b5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afcb9811d143654be77063c89c0e5f8b5"></a>
 def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#afcb9811d143654be77063c89c0e5f8b5">getController</a></td></tr>
 <tr class="memdesc:afcb9811d143654be77063c89c0e5f8b5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convenience function. <br /></td></tr>
@@ -194,6 +191,12 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>setPluginId</b></td></
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
+<tr class="memitem:abcd71799f6d4fca639f01429499f1a90"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#abcd71799f6d4fca639f01429499f1a90">operationStarted</a> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
+<tr class="memdesc:abcd71799f6d4fca639f01429499f1a90"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should be emitted whenever a longer running operation is started, like a drag to scale an object.  <a href="#abcd71799f6d4fca639f01429499f1a90">More...</a><br /></td></tr>
+<tr class="separator:abcd71799f6d4fca639f01429499f1a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Tool_1_1Tool.html#ac3d75c9c646333a0a2c343e9ad75c24c">operationStopped</a> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
+<tr class="memdesc:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Should be emitted whenever a longer running operation is stopped.  <a href="#ac3d75c9c646333a0a2c343e9ad75c24c">More...</a><br /></td></tr>
+<tr class="separator:ac3d75c9c646333a0a2c343e9ad75c24c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a14463f7c9875599509bbe51d8ce57c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1a14463f7c9875599509bbe51d8ce57c"></a>
 tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td></tr>
 <tr class="separator:a1a14463f7c9875599509bbe51d8ce57c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -289,22 +292,60 @@ tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> 
 
 </div>
 </div>
-<a class="anchor" id="ac86e7e08249c204de448b1d82c997760"></a>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="abcd71799f6d4fca639f01429499f1a90"></a>
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">def UM.Tool.Tool.updateHandlePosition </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>self</em></td><td>)</td>
-          <td></td>
+          <td class="memname">tuple UM.Tool.Tool.operationStarted = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Update the position of the ToolHandle. </p>
-<dl class="section see"><dt>See also</dt><dd>ToolHandle </dd></dl>
+<p>Should be emitted whenever a longer running operation is started, like a drag to scale an object. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">tool</td><td>The tool that started the operation. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="ac3d75c9c646333a0a2c343e9ad75c24c"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">tuple UM.Tool.Tool.operationStopped = <a class="el" href="classUM_1_1Signal_1_1Signal.html">Signal</a>()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Should be emitted whenever a longer running operation is stopped. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">tool</td><td>The tool that stopped the operation. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -317,7 +358,7 @@ tuple&#160;</td><td class="memItemRight" valign="bottom"><b>propertyChanged</b> 
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceUM.html">UM</a></li><li class="navelem"><b>Tool</b></li><li class="navelem"><a class="el" href="classUM_1_1Tool_1_1Tool.html">Tool</a></li>
-    <li class="footer">Generated on Wed Jun 24 2015 06:25:11 for Uranium by
+    <li class="footer">Generated on Thu Jun 25 2015 06:25:06 for Uranium by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
