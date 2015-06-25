@@ -6,6 +6,7 @@ var classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer =
     [ "createMaterial", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a68bd8a4e7f5b9298694153f069d4222d", null ],
     [ "endRendering", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a7cf711251b284ef1940ef6a52d3d67e0", null ],
     [ "getIdAtCoordinate", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#adcb302b2d12225bcb36320d5c57f79bc", null ],
+    [ "getPixelMultiplier", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#abd60cbd3d7ccb4b1f703166853e6cc15", null ],
     [ "getSelectionColorAtCoordinate", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a8d36843cf83476509ee8950afd9cd5de", null ],
     [ "getSelectionColorAtCoorindateRadius", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a8937f4b4c1f24bf3cc12ecb612f96f2f", null ],
     [ "queueNode", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a1b6c62c96e4014b3e08a291eac0ffd48", null ],

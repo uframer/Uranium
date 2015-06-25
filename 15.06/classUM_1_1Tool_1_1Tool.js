@@ -14,6 +14,5 @@ var classUM_1_1Tool_1_1Tool =
     [ "setDragStart", "classUM_1_1Tool_1_1Tool.html#acc578bd5162fb025fc79203d66cc46d3", null ],
     [ "setExposedProperties", "classUM_1_1Tool_1_1Tool.html#a02dcea9eb4fa65f7328745a686061521", null ],
     [ "setHandle", "classUM_1_1Tool_1_1Tool.html#a8c68708bdeac63ffc679e1a49cc44cd2", null ],
-    [ "setLockedAxis", "classUM_1_1Tool_1_1Tool.html#a722f47207fb251d613b204252cf0b24d", null ],
-    [ "updateHandlePosition", "classUM_1_1Tool_1_1Tool.html#ac86e7e08249c204de448b1d82c997760", null ]
+    [ "setLockedAxis", "classUM_1_1Tool_1_1Tool.html#a722f47207fb251d613b204252cf0b24d", null ]
 ];
