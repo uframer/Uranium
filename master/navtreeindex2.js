@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#ae99758dd965a20459a20c48a6f9052e4":[3,0,0,20,0,1,0,3],
 "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#af75833d5891e46c8fc0c77447058aff3":[3,0,0,20,0,1,0,6],
 "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#afff3d084bf5ca66ee658599e92ca34e1":[3,0,0,20,0,1,0,5],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html":[3,0,0,20,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "functions_c.html":[3,3,0,3],
 "functions_d.html":[3,3,0,4],
 "functions_e.html":[3,3,0,5],
-"functions_f.html":[3,3,0,6],
-"functions_func.html":[3,3,1,0]
+"functions_f.html":[3,3,0,6]
 };
