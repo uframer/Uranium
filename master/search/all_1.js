@@ -24,5 +24,6 @@ var searchData=
   ['angletovector',['angleToVector',['../classUM_1_1Math_1_1Vector_1_1Vector.html#a235685463a3d3ba642d4b3d4cf61b1f5',1,'UM::Math::Vector::Vector']]],
   ['appenditem',['appendItem',['../classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a5bdd7ff7d217afa38eead67d0bf90a67',1,'UM::Qt::ListModel::ListModel']]],
   ['application',['Application',['../classUM_1_1Application_1_1Application.html',1,'UM::Application']]],
+  ['applicationshuttingdown',['applicationShuttingDown',['../classUM_1_1Application_1_1Application.html#a072a2eb260ea9c4da8c13a6b97522847',1,'UM::Application::Application']]],
   ['axisalignedbox',['AxisAlignedBox',['../classUM_1_1Math_1_1AxisAlignedBox_1_1AxisAlignedBox.html',1,'UM::Math::AxisAlignedBox']]]
 ];

@@ -1,6 +1,7 @@
 var classUM_1_1Qt_1_1QtApplication_1_1QtApplication =
 [
     [ "__init__", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#a17ca5ae5aad8b13985540932095bee6b", null ],
+    [ "addCommandLineOptions", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#aef5e28e209baad171d8d728e65db044a", null ],
     [ "closeSplash", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#ad9349dd8c9cec0dffdd2506984d3def1", null ],
     [ "event", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#a7ecdb53b1d2ed1c9d6b540fb1af5dc68", null ],
     [ "functionEvent", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#a7fa3f71c3979265011dc665abea00eb6", null ],
