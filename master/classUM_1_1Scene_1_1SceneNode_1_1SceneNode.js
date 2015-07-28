@@ -23,6 +23,7 @@ var classUM_1_1Scene_1_1SceneNode_1_1SceneNode =
     [ "getWorldPosition", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ac4fd0d9d5144f3f03ac6c8aeddb1a21d", null ],
     [ "getWorldTransformation", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#adc3d83674e94a72c21d6667cb321117b", null ],
     [ "hasChildren", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a67dedb90c91cb07e8302c15a02aafaad", null ],
+    [ "hasDecoration", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a306b34d6b8acb7044e51a3951f2bd77e", null ],
     [ "isEnabled", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#afdb51ea4f4b8c6f2802c490125a2da45", null ],
     [ "isSelectable", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a824a2170f632eb2bf2edd2a1c9637a65", null ],
     [ "isVisible", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ab6ca60233a0bd2cd5c3a22dc0cc97ec1", null ],
