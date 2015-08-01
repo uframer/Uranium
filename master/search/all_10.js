@@ -1,6 +1,7 @@
 var searchData=
 [
   ['parentchanged',['parentChanged',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a254785c87655fb4efa11d94c05c69242',1,'UM::Scene::SceneNode::SceneNode']]],
+  ['permissiondeniederror',['PermissionDeniedError',['../classOutputDeviceError_1_1PermissionDeniedError.html',1,'OutputDeviceError']]],
   ['plane',['Plane',['../classUM_1_1Math_1_1Plane_1_1Plane.html',1,'UM::Math::Plane']]],
   ['pluginerror',['PluginError',['../classUM_1_1PluginError_1_1PluginError.html',1,'UM::PluginError']]],
   ['pluginerror_2epy',['PluginError.py',['../PluginError_8py.html',1,'']]],

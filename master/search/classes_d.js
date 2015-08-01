@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['permissiondeniederror',['PermissionDeniedError',['../classOutputDeviceError_1_1PermissionDeniedError.html',1,'OutputDeviceError']]],
   ['plane',['Plane',['../classUM_1_1Math_1_1Plane_1_1Plane.html',1,'UM::Math::Plane']]],
   ['pluginerror',['PluginError',['../classUM_1_1PluginError_1_1PluginError.html',1,'UM::PluginError']]],
   ['pluginnotfounderror',['PluginNotFoundError',['../classUM_1_1PluginError_1_1PluginNotFoundError.html',1,'UM::PluginError']]],

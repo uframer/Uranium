@@ -9,7 +9,6 @@ var searchData=
   ['childrenchanged',['childrenChanged',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a8095429546c1fc51796dceadee409784',1,'UM::Scene::SceneNode::SceneNode']]],
   ['clamp',['clamp',['../classUM_1_1Math_1_1Float_1_1Float.html#a025b7e637fe0a5f2128903d61c75afe1',1,'UM::Math::Float::Float']]],
   ['clear',['clear',['../classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a76f69fdc6d39f39d9bc0ab4befb90765',1,'UM::Qt::ListModel::ListModel']]],
-  ['closefile',['closeFile',['../classUM_1_1StorageDevice_1_1StorageDevice.html#abc31d83b3f25f9ce30e828a976ddaf55',1,'UM::StorageDevice::StorageDevice']]],
   ['closesplash',['closeSplash',['../classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#ad9349dd8c9cec0dffdd2506984d3def1',1,'UM::Qt::QtApplication::QtApplication']]],
   ['color',['Color',['../classUM_1_1Math_1_1Color_1_1Color.html',1,'UM::Math::Color']]],
   ['colorgenerator',['ColorGenerator',['../classUM_1_1ColorGenerator_1_1ColorGenerator.html',1,'UM::ColorGenerator']]],

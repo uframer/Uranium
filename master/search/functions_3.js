@@ -6,7 +6,6 @@ var searchData=
   ['checkrequiredplugins',['checkRequiredPlugins',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html#a213d14cc9ef271e77342c129eb467fb5',1,'UM::PluginRegistry::PluginRegistry']]],
   ['clamp',['clamp',['../classUM_1_1Math_1_1Float_1_1Float.html#a025b7e637fe0a5f2128903d61c75afe1',1,'UM::Math::Float::Float']]],
   ['clear',['clear',['../classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a76f69fdc6d39f39d9bc0ab4befb90765',1,'UM::Qt::ListModel::ListModel']]],
-  ['closefile',['closeFile',['../classUM_1_1StorageDevice_1_1StorageDevice.html#abc31d83b3f25f9ce30e828a976ddaf55',1,'UM::StorageDevice::StorageDevice']]],
   ['closesplash',['closeSplash',['../classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#ad9349dd8c9cec0dffdd2506984d3def1',1,'UM::Qt::QtApplication::QtApplication']]],
   ['connect',['connect',['../classUM_1_1Signal_1_1Signal.html#a22a3dd34c6cc7afb681bcedd5bd6ee3c',1,'UM::Signal::Signal']]],
   ['convertbytestoverticelist',['convertBytesToVerticeList',['../classUM_1_1Backend_1_1Backend_1_1Backend.html#a4307734b9d4c23aeb429d22b93be5ec4',1,'UM::Backend::Backend::Backend']]],

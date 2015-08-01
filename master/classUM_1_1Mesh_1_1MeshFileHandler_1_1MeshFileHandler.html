@@ -125,11 +125,15 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>__init__</b></td></tr>
 <tr class="memitem:afc1559a276ba896b893a1e97b535fd16"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afc1559a276ba896b893a1e97b535fd16"></a>
 def&#160;</td><td class="memItemRight" valign="bottom"><b>read</b></td></tr>
 <tr class="separator:afc1559a276ba896b893a1e97b535fd16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b365647972ca92771706ff7f2ed7be9"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a8b365647972ca92771706ff7f2ed7be9"></a>
-def&#160;</td><td class="memItemRight" valign="bottom"><b>write</b></td></tr>
-<tr class="separator:a8b365647972ca92771706ff7f2ed7be9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f1e50d916fa47f6b20fea9a4a6d1a8f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6f1e50d916fa47f6b20fea9a4a6d1a8f"></a>
-def&#160;</td><td class="memItemRight" valign="bottom"><b>getSupportedFileTypesWrite</b></td></tr>
+<tr class="memitem:a48da0faf76cc98ea9819b9a2ab7bf0d5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a48da0faf76cc98ea9819b9a2ab7bf0d5"></a>
+def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a48da0faf76cc98ea9819b9a2ab7bf0d5">getWriter</a></td></tr>
+<tr class="memdesc:a48da0faf76cc98ea9819b9a2ab7bf0d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get an instance of a mesh writer by ID. <br /></td></tr>
+<tr class="separator:a48da0faf76cc98ea9819b9a2ab7bf0d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52c3b29a8698eb9d067f13d2eb5a2a53"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a52c3b29a8698eb9d067f13d2eb5a2a53">getWriterByMimeType</a></td></tr>
+<tr class="memdesc:a52c3b29a8698eb9d067f13d2eb5a2a53"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a mesh writer object that supports writing the specified mime type.  <a href="#a52c3b29a8698eb9d067f13d2eb5a2a53">More...</a><br /></td></tr>
+<tr class="separator:a52c3b29a8698eb9d067f13d2eb5a2a53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f1e50d916fa47f6b20fea9a4a6d1a8f"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a6f1e50d916fa47f6b20fea9a4a6d1a8f">getSupportedFileTypesWrite</a></td></tr>
+<tr class="memdesc:a6f1e50d916fa47f6b20fea9a4a6d1a8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get list of all supported filetypes for writing.  <a href="#a6f1e50d916fa47f6b20fea9a4a6d1a8f">More...</a><br /></td></tr>
 <tr class="separator:a6f1e50d916fa47f6b20fea9a4a6d1a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23fd4bd150736c022fa1af95d7db178d"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a23fd4bd150736c022fa1af95d7db178d"></a>
 def&#160;</td><td class="memItemRight" valign="bottom"><b>getSupportedFileTypesRead</b></td></tr>
@@ -144,7 +148,62 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>addReader</b></td></tr
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Central class for reading and writing meshes. </p>
 <p>This class is created by Application and handles reading and writing mesh files. </p>
-</div><hr/>The documentation for this class was generated from the following file:<ul>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="a6f1e50d916fa47f6b20fea9a4a6d1a8f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def UM.Mesh.MeshFileHandler.MeshFileHandler.getSupportedFileTypesWrite </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>self</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get list of all supported filetypes for writing. </p>
+<dl class="section return"><dt>Returns</dt><dd>List of dicts containing id, extension, description and mime_type for all supported file types. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a52c3b29a8698eb9d067f13d2eb5a2a53"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def UM.Mesh.MeshFileHandler.MeshFileHandler.getWriterByMimeType </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>self</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>mime</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get a mesh writer object that supports writing the specified mime type. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mime</td><td>The mime type that should be supported. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>A MeshWriter instance or None if no mesh writer supports the specified mime type. If there are multiple writers that support the specified mime type, the first entry is returned. </dd></dl>
+
+</div>
+</div>
+<hr/>The documentation for this class was generated from the following file:<ul>
 <li>UM/Mesh/MeshFileHandler.py</li>
 </ul>
 </div><!-- contents -->
@@ -153,7 +212,7 @@ def&#160;</td><td class="memItemRight" valign="bottom"><b>addReader</b></td></tr
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceUM.html">UM</a></li><li class="navelem"><b>Mesh</b></li><li class="navelem"><b>MeshFileHandler</b></li><li class="navelem"><a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html">MeshFileHandler</a></li>
-    <li class="footer">Generated on Fri Jul 31 2015 06:25:12 for Uranium by
+    <li class="footer">Generated on Sat Aug 1 2015 06:25:13 for Uranium by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

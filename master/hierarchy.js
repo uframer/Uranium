@@ -17,7 +17,9 @@ var hierarchy =
     [ "UM.Settings.Setting.IllegalMethodError", "classUM_1_1Settings_1_1Setting_1_1IllegalMethodError.html", null ],
     [ "UM.PluginError.InvalidMetaDataError", "classUM_1_1PluginError_1_1InvalidMetaDataError.html", null ],
     [ "UM.Scene.Iterator.Iterator.Iterator", "classUM_1_1Scene_1_1Iterator_1_1Iterator_1_1Iterator.html", null ],
-    [ "UM.Qt.ListModel.ListModel", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html", null ],
+    [ "UM.Qt.ListModel.ListModel", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html", [
+      [ "UM.Qt.Bindings.OutputDevicesModel.OutputDevicesModel", "classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html", null ]
+    ] ],
     [ "UM.Qt.Bindings.MainWindow.MainWindow", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html", null ],
     [ "UM.Math.Matrix.Matrix", "classUM_1_1Math_1_1Matrix_1_1Matrix.html", null ],
     [ "UM.Mesh.MeshFileHandler.MeshFileHandler", "classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html", null ],
@@ -31,6 +33,7 @@ var hierarchy =
     [ "UM.PluginError.PluginError", "classUM_1_1PluginError_1_1PluginError.html", null ],
     [ "UM.PluginError.PluginNotFoundError", "classUM_1_1PluginError_1_1PluginNotFoundError.html", null ],
     [ "UM.PluginObject.PluginObject", "classUM_1_1PluginObject_1_1PluginObject.html", [
+      [ "OutputDevicePlugin.OutputDevicePlugin", "classOutputDevicePlugin_1_1OutputDevicePlugin.html", null ],
       [ "UM.Backend.Backend.Backend", "classUM_1_1Backend_1_1Backend_1_1Backend.html", null ],
       [ "UM.Extension.Extension", "classUM_1_1Extension_1_1Extension.html", null ],
       [ "UM.InputDevice.InputDevice", "classUM_1_1InputDevice_1_1InputDevice.html", [
@@ -38,7 +41,7 @@ var hierarchy =
         [ "UM.Qt.QtMouseDevice.QtMouseDevice", "classUM_1_1Qt_1_1QtMouseDevice_1_1QtMouseDevice.html", null ]
       ] ],
       [ "UM.Logger.LogOutput", "classUM_1_1Logger_1_1LogOutput.html", null ],
-      [ "UM.StorageDevice.StorageDevice", "classUM_1_1StorageDevice_1_1StorageDevice.html", null ],
+      [ "UM.Mesh.MeshWriter.MeshWriter", "classUM_1_1Mesh_1_1MeshWriter_1_1MeshWriter.html", null ],
       [ "UM.Tool.Tool", "classUM_1_1Tool_1_1Tool.html", null ],
       [ "UM.View.View.View", "classUM_1_1View_1_1View_1_1View.html", null ]
     ] ],
@@ -51,6 +54,8 @@ var hierarchy =
     [ "UM.Settings.Validators.ResultCodes.ResultCodes", "classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html", null ],
     [ "UM.Signal.Signal", "classUM_1_1Signal_1_1Signal.html", null ],
     [ "UM.Signal.SignalEmitter", "classUM_1_1Signal_1_1SignalEmitter.html", [
+      [ "OutputDevice.OutputDevice", "classOutputDevice_1_1OutputDevice.html", null ],
+      [ "OutputDeviceManager.OutputDeviceManager", "classOutputDeviceManager_1_1OutputDeviceManager.html", null ],
       [ "UM.Application.Application", "classUM_1_1Application_1_1Application.html", [
         [ "UM.Qt.QtApplication.QtApplication", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html", null ]
       ] ],
@@ -59,7 +64,6 @@ var hierarchy =
       [ "UM.Controller.Controller", "classUM_1_1Controller_1_1Controller.html", null ],
       [ "UM.InputDevice.InputDevice", "classUM_1_1InputDevice_1_1InputDevice.html", null ],
       [ "UM.Job.Job", "classUM_1_1Job_1_1Job.html", [
-        [ "UM.LoadWorkspaceJob.LoadWorkspaceJob", "classUM_1_1LoadWorkspaceJob_1_1LoadWorkspaceJob.html", null ],
         [ "UM.Mesh.ReadMeshJob.ReadMeshJob", "classUM_1_1Mesh_1_1ReadMeshJob_1_1ReadMeshJob.html", null ],
         [ "UM.Mesh.WriteMeshJob.WriteMeshJob", "classUM_1_1Mesh_1_1WriteMeshJob_1_1WriteMeshJob.html", null ],
         [ "UM.Scene.SceneNode._CalculateAABBJob", "classUM_1_1Scene_1_1SceneNode_1_1__CalculateAABBJob.html", null ]
@@ -82,5 +86,9 @@ var hierarchy =
     ] ],
     [ "UM.Math.Vector.Vector", "classUM_1_1Math_1_1Vector_1_1Vector.html", null ],
     [ "UM.Mesh.Vertex.Vertex", "classUM_1_1Mesh_1_1Vertex_1_1Vertex.html", null ],
-    [ "UM.WorkspaceFileHandler.WorkspaceFileHandler", "classUM_1_1WorkspaceFileHandler_1_1WorkspaceFileHandler.html", null ]
+    [ "OutputDeviceError.WriteRequestFailedError", "classOutputDeviceError_1_1WriteRequestFailedError.html", [
+      [ "OutputDeviceError.DeviceBusyError", "classOutputDeviceError_1_1DeviceBusyError.html", null ],
+      [ "OutputDeviceError.PermissionDeniedError", "classOutputDeviceError_1_1PermissionDeniedError.html", null ],
+      [ "OutputDeviceError.UserCanceledError", "classOutputDeviceError_1_1UserCanceledError.html", null ]
+    ] ]
 ];

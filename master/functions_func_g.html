@@ -96,7 +96,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions_func_l.html#index_l"><span>l</span></a></li>
       <li><a href="functions_func_m.html#index_m"><span>m</span></a></li>
       <li><a href="functions_func_n.html#index_n"><span>n</span></a></li>
-      <li><a href="functions_func_o.html#index_o"><span>o</span></a></li>
       <li><a href="functions_func_p.html#index_p"><span>p</span></a></li>
       <li><a href="functions_func_q.html#index_q"><span>q</span></a></li>
       <li><a href="functions_func_r.html#index_r"><span>r</span></a></li>
@@ -144,6 +143,9 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <h3><a class="anchor" id="index_g"></a>- g -</h3><ul>
 <li>getActiveCamera()
 : <a class="el" href="classUM_1_1Scene_1_1Scene_1_1Scene.html#a569409d2e034fe3ec9f4395a098db370">UM.Scene.Scene.Scene</a>
+</li>
+<li>getActiveDevice()
+: <a class="el" href="classOutputDeviceManager_1_1OutputDeviceManager.html#acb1cc468371f2b1abb6e2efcd9fdf895">OutputDeviceManager.OutputDeviceManager</a>
 </li>
 <li>getActiveMachine()
 : <a class="el" href="classUM_1_1Application_1_1Application.html#aed32f759f540e468337ffe1b9ed491db">UM.Application.Application</a>
@@ -210,7 +212,8 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 , <a class="el" href="classUM_1_1Settings_1_1Setting_1_1Setting.html#a9c929fbb312e8a3600dd6496503db12f">UM.Settings.Setting.Setting</a>
 </li>
 <li>getDescription()
-: <a class="el" href="classUM_1_1Job_1_1Job.html#aa5a7cdc169a7c437caae1b56991ce694">UM.Job.Job</a>
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a244b339079a7678203254a9c6a11d1ed">OutputDevice.OutputDevice</a>
+, <a class="el" href="classUM_1_1Job_1_1Job.html#aa5a7cdc169a7c437caae1b56991ce694">UM.Job.Job</a>
 , <a class="el" href="classUM_1_1Settings_1_1Setting_1_1Setting.html#afabdef177e5c908353292603b1493425">UM.Settings.Setting.Setting</a>
 </li>
 <li>getDisplayString()
@@ -219,11 +222,20 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <li>getEngineCommand()
 : <a class="el" href="classUM_1_1Backend_1_1Backend_1_1Backend.html#a8c8ade332a7c86c4fd952b66a79c35f0">UM.Backend.Backend.Backend</a>
 </li>
+<li>getError()
+: <a class="el" href="classUM_1_1Job_1_1Job.html#ac9785e973b484f1a3e4ec03bbdb44cf9">UM.Job.Job</a>
+</li>
 <li>getExtents()
 : <a class="el" href="classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a4cf3d4831099cadccaf12cb6af5de065">UM.Mesh.MeshData.MeshData</a>
 </li>
 <li>getHandle()
 : <a class="el" href="classUM_1_1Tool_1_1Tool.html#abefbac2171b73faafeccb6f0ebbe0fc9">UM.Tool.Tool</a>
+</li>
+<li>getIconName()
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a8e8913d45062c028ace790025cc1fd74">OutputDevice.OutputDevice</a>
+</li>
+<li>getId()
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a0a909c904140fafea469e709e69224d6">OutputDevice.OutputDevice</a>
 </li>
 <li>getIdAtCoordinate()
 : <a class="el" href="classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#adcb302b2d12225bcb36320d5c57f79bc">UM.Qt.QtGL2Renderer.QtGL2Renderer</a>
@@ -287,6 +299,9 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <li>getMinkowskiSum()
 : <a class="el" href="classUM_1_1Math_1_1Polygon_1_1Polygon.html#afb356face6b76e6b6672f326a72e5694">UM.Math.Polygon.Polygon</a>
 </li>
+<li>getName()
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a37c78edb812c5f0ead89ab5555becaad">OutputDevice.OutputDevice</a>
+</li>
 <li>getNormals()
 : <a class="el" href="classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#ab4049c5b56526bbf3e3e0a52ecdcfa18">UM.Mesh.MeshData.MeshData</a>
 </li>
@@ -298,6 +313,21 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 </li>
 <li>getOrientation()
 : <a class="el" href="classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ae23d7f3363bf81755b78542fa47433a3">UM.Scene.SceneNode.SceneNode</a>
+</li>
+<li>getOutputDevice()
+: <a class="el" href="classOutputDeviceManager_1_1OutputDeviceManager.html#ac26c18fca638886a0da53c084465a5ad">OutputDeviceManager.OutputDeviceManager</a>
+</li>
+<li>getOutputDeviceIds()
+: <a class="el" href="classOutputDeviceManager_1_1OutputDeviceManager.html#aff2799092dc98e6c3586756ed658b81d">OutputDeviceManager.OutputDeviceManager</a>
+</li>
+<li>getOutputDeviceManager()
+: <a class="el" href="classOutputDevicePlugin_1_1OutputDevicePlugin.html#a490a222c56aea0e7ebe0ce91e4b588f8">OutputDevicePlugin.OutputDevicePlugin</a>
+</li>
+<li>getOutputDevicePlugin()
+: <a class="el" href="classOutputDeviceManager_1_1OutputDeviceManager.html#aab5d3d94624341407d9ac8d0cbf025cb">OutputDeviceManager.OutputDeviceManager</a>
+</li>
+<li>getOutputDevices()
+: <a class="el" href="classOutputDeviceManager_1_1OutputDeviceManager.html#a33cf53760367a888403ca7ff3ce0150a">OutputDeviceManager.OutputDeviceManager</a>
 </li>
 <li>getParent()
 : <a class="el" href="classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a9fca3a571643a8bb7d636f56d2ae4bbb">UM.Scene.SceneNode.SceneNode</a>
@@ -314,6 +344,9 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 </li>
 <li>getPosition()
 : <a class="el" href="classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ad5c255e5700db556a4c707a20dcf20bf">UM.Scene.SceneNode.SceneNode</a>
+</li>
+<li>getPriority()
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a5f7b08d6b3a2fc7dc8cea0a67a8a3cca">OutputDevice.OutputDevice</a>
 </li>
 <li>getProjectionMatrix()
 : <a class="el" href="classUM_1_1Scene_1_1Camera_1_1Camera.html#a6520aed78aa4b8791f6916e271aa2cc1">UM.Scene.Camera.Camera</a>
@@ -352,8 +385,11 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <li>getSettingByKey()
 : <a class="el" href="classUM_1_1Settings_1_1Setting_1_1Setting.html#a568f591ea60b309aa9db409aba33f9f1">UM.Settings.Setting.Setting</a>
 </li>
-<li>getStorageDevice()
-: <a class="el" href="classUM_1_1Application_1_1Application.html#a3b5fddc81c368c1e16768be84bd3ed11">UM.Application.Application</a>
+<li>getShortDescription()
+: <a class="el" href="classOutputDevice_1_1OutputDevice.html#a2bbc3e279bc50ce22c1e1f5052eb6ef4">OutputDevice.OutputDevice</a>
+</li>
+<li>getSupportedFileTypesWrite()
+: <a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a6f1e50d916fa47f6b20fea9a4a6d1a8f">UM.Mesh.MeshFileHandler.MeshFileHandler</a>
 </li>
 <li>getTool()
 : <a class="el" href="classUM_1_1Controller_1_1Controller.html#a01e636d939006a4333d981c368211c36">UM.Controller.Controller</a>
@@ -395,14 +431,17 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <li>getVisibleMessages()
 : <a class="el" href="classUM_1_1Application_1_1Application.html#aa95b1ffced32e90b2f4149cc1b9205c2">UM.Application.Application</a>
 </li>
-<li>getWorkspaceFileHandler()
-: <a class="el" href="classUM_1_1Application_1_1Application.html#ae92a675bacedfeaef335846927f36e05">UM.Application.Application</a>
-</li>
 <li>getWorldPosition()
 : <a class="el" href="classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ac4fd0d9d5144f3f03ac6c8aeddb1a21d">UM.Scene.SceneNode.SceneNode</a>
 </li>
 <li>getWorldTransformation()
 : <a class="el" href="classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#adc3d83674e94a72c21d6667cb321117b">UM.Scene.SceneNode.SceneNode</a>
+</li>
+<li>getWriter()
+: <a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a48da0faf76cc98ea9819b9a2ab7bf0d5">UM.Mesh.MeshFileHandler.MeshFileHandler</a>
+</li>
+<li>getWriterByMimeType()
+: <a class="el" href="classUM_1_1Mesh_1_1MeshFileHandler_1_1MeshFileHandler.html#a52c3b29a8698eb9d067f13d2eb5a2a53">UM.Mesh.MeshFileHandler.MeshFileHandler</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -410,7 +449,7 @@ $(document).ready(function(){initNavTree('functions_func_g.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Jul 31 2015 06:25:13 for Uranium by
+    <li class="footer">Generated on Sat Aug 1 2015 06:25:14 for Uranium by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

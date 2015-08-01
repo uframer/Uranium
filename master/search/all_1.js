@@ -2,6 +2,7 @@ var searchData=
 [
   ['acquirelock',['acquireLock',['../classUM_1_1Scene_1_1Scene_1_1Scene.html#ab3d611940c956a9449976f6acbbea293',1,'UM::Scene::Scene::Scene']]],
   ['activatemenuitem',['activateMenuItem',['../classUM_1_1Extension_1_1Extension.html#ad58e28f48e27e1e6a26225d7c3e7d5de',1,'UM::Extension::Extension']]],
+  ['activedevicechanged',['activeDeviceChanged',['../classOutputDeviceManager_1_1OutputDeviceManager.html#af3802d51dffaf34983864a29dd91ea4a',1,'OutputDeviceManager::OutputDeviceManager']]],
   ['activeifhandler',['activeIfHandler',['../classUM_1_1Settings_1_1Setting_1_1Setting.html#ab2cec41ed08d1ad6c34d07d51613869e',1,'UM::Settings::Setting::Setting']]],
   ['activetoolchanged',['activeToolChanged',['../classUM_1_1Controller_1_1Controller.html#ac1ee8ed6e11de08b40546f3e87fd3566',1,'UM::Controller::Controller']]],
   ['activeviewchanged',['activeViewChanged',['../classUM_1_1Controller_1_1Controller.html#ae67d4ba75051c32e0f2a7f7e1cd9ff56',1,'UM::Controller::Controller']]],
@@ -14,8 +15,9 @@ var searchData=
   ['addinputdevice',['addInputDevice',['../classUM_1_1Controller_1_1Controller.html#ae272d681ad8cb60ae716bf792fde58c4',1,'UM::Controller::Controller']]],
   ['addmachine',['addMachine',['../classUM_1_1Application_1_1Application.html#a14619f97ce6cd0e1ee01459374a0094e',1,'UM::Application::Application']]],
   ['addmenuitem',['addMenuItem',['../classUM_1_1Extension_1_1Extension.html#a1a5a81c2aaf02a8e560e0caf8d88f815',1,'UM::Extension::Extension']]],
+  ['addoutputdevice',['addOutputDevice',['../classOutputDeviceManager_1_1OutputDeviceManager.html#aad8edd58848a380edb53313cbb1a16af',1,'OutputDeviceManager::OutputDeviceManager']]],
+  ['addoutputdeviceplugin',['addOutputDevicePlugin',['../classOutputDeviceManager_1_1OutputDeviceManager.html#a269e505ba3686f35cd85137b7613c280',1,'OutputDeviceManager::OutputDeviceManager']]],
   ['addpluginlocation',['addPluginLocation',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html#aa117643177de58f8085d580f4e88bf93',1,'UM::PluginRegistry::PluginRegistry']]],
-  ['addstoragedevice',['addStorageDevice',['../classUM_1_1Application_1_1Application.html#a6ea2c518077465f0bb72d38653029e00',1,'UM::Application::Application']]],
   ['addtool',['addTool',['../classUM_1_1Controller_1_1Controller.html#a8416624ca10f1bd946ce03214339b087',1,'UM::Controller::Controller']]],
   ['addtype',['addType',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html#a97d3a4bd2dc0b565073f8e54e7005e91',1,'UM::PluginRegistry::PluginRegistry']]],
   ['addvertex',['addVertex',['../classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a5249a473dbbbe7d4a81272bdedd3d777',1,'UM::Mesh::MeshData::MeshData']]],

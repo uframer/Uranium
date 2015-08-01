@@ -121,11 +121,10 @@ Inheritance diagram for UM.Job.Job:</div>
  <div class="center">
   <img src="classUM_1_1Job_1_1Job.png" usemap="#UM.Job.Job_map" alt=""/>
   <map id="UM.Job.Job_map" name="UM.Job.Job_map">
-<area href="classUM_1_1Signal_1_1SignalEmitter.html" title="Convenience class to simplify signal creation. " alt="UM.Signal.SignalEmitter" shape="rect" coords="409,0,672,24"/>
-<area href="classUM_1_1LoadWorkspaceJob_1_1LoadWorkspaceJob.html" title="A Job subclass that performs workspace loading. " alt="UM.LoadWorkspaceJob.LoadWorkspaceJob" shape="rect" coords="0,112,263,136"/>
-<area href="classUM_1_1Mesh_1_1ReadMeshJob_1_1ReadMeshJob.html" title="A Job subclass that performs mesh loading. " alt="UM.Mesh.ReadMeshJob.ReadMeshJob" shape="rect" coords="273,112,536,136"/>
-<area href="classUM_1_1Mesh_1_1WriteMeshJob_1_1WriteMeshJob.html" title="A Job subclass that performs mesh writing. " alt="UM.Mesh.WriteMeshJob.WriteMeshJob" shape="rect" coords="546,112,809,136"/>
-<area href="classUM_1_1Scene_1_1SceneNode_1_1__CalculateAABBJob.html" title="Internal Calculates the AABB of a node and its children. " alt="UM.Scene.SceneNode._CalculateAABBJob" shape="rect" coords="819,112,1082,136"/>
+<area href="classUM_1_1Signal_1_1SignalEmitter.html" title="Convenience class to simplify signal creation. " alt="UM.Signal.SignalEmitter" shape="rect" coords="270,0,530,24"/>
+<area href="classUM_1_1Mesh_1_1ReadMeshJob_1_1ReadMeshJob.html" title="A Job subclass that performs mesh loading. " alt="UM.Mesh.ReadMeshJob.ReadMeshJob" shape="rect" coords="0,112,260,136"/>
+<area href="classUM_1_1Mesh_1_1WriteMeshJob_1_1WriteMeshJob.html" title="A Job subclass that performs mesh writing. " alt="UM.Mesh.WriteMeshJob.WriteMeshJob" shape="rect" coords="270,112,530,136"/>
+<area href="classUM_1_1Scene_1_1SceneNode_1_1__CalculateAABBJob.html" title="Internal Calculates the AABB of a node and its children. " alt="UM.Scene.SceneNode._CalculateAABBJob" shape="rect" coords="540,112,800,136"/>
 </map>
  </div></div>
 <table class="memberdecls">
@@ -149,6 +148,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ad70cd18e949d0c424cd4f2841ef41eb4"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#ad70cd18e949d0c424cd4f2841ef41eb4">setResult</a></td></tr>
 <tr class="memdesc:ad70cd18e949d0c424cd4f2841ef41eb4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the result of this job.  <a href="#ad70cd18e949d0c424cd4f2841ef41eb4">More...</a><br /></td></tr>
 <tr class="separator:ad70cd18e949d0c424cd4f2841ef41eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab676a3747b723dc57885a709474fa784"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#ab676a3747b723dc57885a709474fa784">setError</a></td></tr>
+<tr class="memdesc:ab676a3747b723dc57885a709474fa784"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set an exception that was thrown while the job was being executed.  <a href="#ab676a3747b723dc57885a709474fa784">More...</a><br /></td></tr>
+<tr class="separator:ab676a3747b723dc57885a709474fa784"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac1f1e4a8fd9d504b418c8449b8f128b0"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#ac1f1e4a8fd9d504b418c8449b8f128b0">start</a></td></tr>
 <tr class="memdesc:ac1f1e4a8fd9d504b418c8449b8f128b0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Start the job.  <a href="#ac1f1e4a8fd9d504b418c8449b8f128b0">More...</a><br /></td></tr>
 <tr class="separator:ac1f1e4a8fd9d504b418c8449b8f128b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -161,6 +163,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af43bf07622d15947929959840edfedd3"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#af43bf07622d15947929959840edfedd3">isFinished</a></td></tr>
 <tr class="memdesc:af43bf07622d15947929959840edfedd3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether the job has finished processing.  <a href="#af43bf07622d15947929959840edfedd3">More...</a><br /></td></tr>
 <tr class="separator:af43bf07622d15947929959840edfedd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97ad326018495108255578d17c1bb67e"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#a97ad326018495108255578d17c1bb67e">hasError</a></td></tr>
+<tr class="memdesc:a97ad326018495108255578d17c1bb67e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether the <a class="el" href="classUM_1_1Job_1_1Job.html" title="Base class for things that should be performed in a thread. ">Job</a> has encountered an error during execution.  <a href="#a97ad326018495108255578d17c1bb67e">More...</a><br /></td></tr>
+<tr class="separator:a97ad326018495108255578d17c1bb67e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9785e973b484f1a3e4ec03bbdb44cf9"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Job_1_1Job.html#ac9785e973b484f1a3e4ec03bbdb44cf9">getError</a></td></tr>
+<tr class="memdesc:ac9785e973b484f1a3e4ec03bbdb44cf9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the error that was encountered during execution.  <a href="#ac9785e973b484f1a3e4ec03bbdb44cf9">More...</a><br /></td></tr>
+<tr class="separator:ac9785e973b484f1a3e4ec03bbdb44cf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classUM_1_1Signal_1_1SignalEmitter"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classUM_1_1Signal_1_1SignalEmitter')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classUM_1_1Signal_1_1SignalEmitter.html">UM.Signal.SignalEmitter</a></td></tr>
 <tr class="memitem:a204ed05349d3cb0b74a7258350eae2a6 inherit pub_methods_classUM_1_1Signal_1_1SignalEmitter"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUM_1_1Signal_1_1SignalEmitter.html#a204ed05349d3cb0b74a7258350eae2a6">__init__</a></td></tr>
 <tr class="memdesc:a204ed05349d3cb0b74a7258350eae2a6 inherit pub_methods_classUM_1_1Signal_1_1SignalEmitter"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize method.  <a href="#a204ed05349d3cb0b74a7258350eae2a6">More...</a><br /></td></tr>
@@ -255,6 +263,25 @@ Static Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ac9785e973b484f1a3e4ec03bbdb44cf9"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def UM.Job.Job.getError </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>self</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the error that was encountered during execution. </p>
+<dl class="section return"><dt>Returns</dt><dd><em>Exception</em> The error encountered during execution or None if there was no error. </dd></dl>
+
+</div>
+</div>
 <a class="anchor" id="a7d355cbaaaf588201db48147416e365c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -271,6 +298,25 @@ Static Public Attributes</h2></td></tr>
 
 <p>Get the result of the job. </p>
 <p>The actual result object returned by this method is dependant on the implementation. </p>
+
+</div>
+</div>
+<a class="anchor" id="a97ad326018495108255578d17c1bb67e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def UM.Job.Job.hasError </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>self</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Check whether the <a class="el" href="classUM_1_1Job_1_1Job.html" title="Base class for things that should be performed in a thread. ">Job</a> has encountered an error during execution. </p>
+<dl class="section return"><dt>Returns</dt><dd><em>bool</em> True if an error was set, False if not. </dd></dl>
 
 </div>
 </div>
@@ -349,6 +395,41 @@ Static Public Attributes</h2></td></tr>
 <p>Should be reimplemented by subclasses. </p><dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">NotImplementedError</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="ab676a3747b723dc57885a709474fa784"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def UM.Job.Job.setError </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>self</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>error</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set an exception that was thrown while the job was being executed. </p>
+<p>Setting error to something else than None implies the <a class="el" href="classUM_1_1Job_1_1Job.html" title="Base class for things that should be performed in a thread. ">Job</a> failed to execute properly.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">error</td><td><em>Exception</em> The exception to set. </td></tr>
   </table>
   </dd>
 </dl>
@@ -471,7 +552,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceUM.html">UM</a></li><li class="navelem"><b>Job</b></li><li class="navelem"><a class="el" href="classUM_1_1Job_1_1Job.html">Job</a></li>
-    <li class="footer">Generated on Fri Jul 31 2015 06:25:12 for Uranium by
+    <li class="footer">Generated on Sat Aug 1 2015 06:25:13 for Uranium by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
