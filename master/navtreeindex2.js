@@ -48,11 +48,8 @@ var NAVTREEINDEX2 =
 "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#af75833d5891e46c8fc0c77447058aff3":[3,0,4,19,0,1,0,7],
 "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#afff3d084bf5ca66ee658599e92ca34e1":[3,0,4,19,0,1,0,6],
 "classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html":[3,0,4,19,0,2,0],
-"classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#a56c4319b614e79373bafc84570da7d15":[3,0,4,19,0,2,0,1],
 "classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#a6b5911389a7277e67397bade16d5e473":[3,0,4,19,0,2,0,0],
-"classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#a9da6897fbd1040a45f5f78010581e828":[3,0,4,19,0,2,0,3],
-"classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#ae1c1af1d7a8399c4fcf56479f7739a72":[3,0,4,19,0,2,0,2],
-"classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#ae4262833aa5929d60df00d1b9fe7e182":[3,0,4,19,0,2,0,4],
+"classUM_1_1Qt_1_1Bindings_1_1OutputDevicesModel_1_1OutputDevicesModel.html#aa5409b383114600c6dcefd2d51398177":[3,0,4,19,0,2,0,1],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html":[3,0,4,19,1,0],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html#a06a5c4dfdf0624639644d586dba49030":[3,0,4,19,1,0,2],
 "classUM_1_1Qt_1_1Duration_1_1Duration.html#a0b2efd06b33bbfc7af6521383c75ac3b":[3,0,4,19,1,0,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX2 =
 "classUM_1_1Signal_1_1Signal.html#a22a3dd34c6cc7afb681bcedd5bd6ee3c":[3,0,4,22,0,2],
 "classUM_1_1Signal_1_1Signal.html#a4baf1b8076844a5d906729417021b6ee":[3,0,4,22,0,5],
 "classUM_1_1Signal_1_1Signal.html#a5adb6af30319d9a1383e897c2fa09d1f":[3,0,4,22,0,4],
-"classUM_1_1Signal_1_1Signal.html#a5efd41d710704500ea62d76d3c92cefa":[3,0,4,22,0,1]
+"classUM_1_1Signal_1_1Signal.html#a5efd41d710704500ea62d76d3c92cefa":[3,0,4,22,0,1],
+"classUM_1_1Signal_1_1Signal.html#a71488eba4c5115d2fbfd58768d767995":[3,0,4,22,0,6],
+"classUM_1_1Signal_1_1Signal.html#a748ae6a60764463a76a43e6397c0bc85":[3,0,4,22,0,0],
+"classUM_1_1Signal_1_1Signal.html#a7d0ec98c14788e67622fee85ac03e5f4":[3,0,4,22,0,3]
 };

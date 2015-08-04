@@ -1,8 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"classUM_1_1Signal_1_1Signal.html#a71488eba4c5115d2fbfd58768d767995":[3,0,4,22,0,6],
-"classUM_1_1Signal_1_1Signal.html#a748ae6a60764463a76a43e6397c0bc85":[3,0,4,22,0,0],
-"classUM_1_1Signal_1_1Signal.html#a7d0ec98c14788e67622fee85ac03e5f4":[3,0,4,22,0,3],
 "classUM_1_1Signal_1_1SignalEmitter.html":[3,0,4,22,1],
 "classUM_1_1Signal_1_1SignalEmitter.html#a204ed05349d3cb0b74a7258350eae2a6":[3,0,4,22,1,0],
 "classUM_1_1Tool_1_1Tool.html":[3,0,4,23,0],
