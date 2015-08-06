@@ -106,6 +106,23 @@ var namespaceUM =
         [ "ScaleToBoundsOperation", "classUM_1_1Operations_1_1ScaleToBoundsOperation_1_1ScaleToBoundsOperation.html", "classUM_1_1Operations_1_1ScaleToBoundsOperation_1_1ScaleToBoundsOperation" ]
       ] ]
     ] ],
+    [ "OutputDevice", null, [
+      [ "OutputDevice", null, [
+        [ "OutputDevice", "classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html", "classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice" ]
+      ] ],
+      [ "OutputDeviceError", null, [
+        [ "DeviceBusyError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1DeviceBusyError.html", null ],
+        [ "PermissionDeniedError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1PermissionDeniedError.html", null ],
+        [ "UserCanceledError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1UserCanceledError.html", null ],
+        [ "WriteRequestFailedError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1WriteRequestFailedError.html", null ]
+      ] ],
+      [ "OutputDeviceManager", null, [
+        [ "OutputDeviceManager", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager" ]
+      ] ],
+      [ "OutputDevicePlugin", null, [
+        [ "OutputDevicePlugin", "classUM_1_1OutputDevice_1_1OutputDevicePlugin_1_1OutputDevicePlugin.html", "classUM_1_1OutputDevice_1_1OutputDevicePlugin_1_1OutputDevicePlugin" ]
+      ] ]
+    ] ],
     [ "PluginError", null, [
       [ "InvalidMetaDataError", "classUM_1_1PluginError_1_1InvalidMetaDataError.html", "classUM_1_1PluginError_1_1InvalidMetaDataError" ],
       [ "PluginError", "classUM_1_1PluginError_1_1PluginError.html", "classUM_1_1PluginError_1_1PluginError" ],

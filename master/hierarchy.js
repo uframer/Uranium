@@ -33,7 +33,6 @@ var hierarchy =
     [ "UM.PluginError.PluginError", "classUM_1_1PluginError_1_1PluginError.html", null ],
     [ "UM.PluginError.PluginNotFoundError", "classUM_1_1PluginError_1_1PluginNotFoundError.html", null ],
     [ "UM.PluginObject.PluginObject", "classUM_1_1PluginObject_1_1PluginObject.html", [
-      [ "OutputDevicePlugin.OutputDevicePlugin", "classOutputDevicePlugin_1_1OutputDevicePlugin.html", null ],
       [ "UM.Backend.Backend.Backend", "classUM_1_1Backend_1_1Backend_1_1Backend.html", null ],
       [ "UM.Extension.Extension", "classUM_1_1Extension_1_1Extension.html", null ],
       [ "UM.InputDevice.InputDevice", "classUM_1_1InputDevice_1_1InputDevice.html", [
@@ -42,6 +41,7 @@ var hierarchy =
       ] ],
       [ "UM.Logger.LogOutput", "classUM_1_1Logger_1_1LogOutput.html", null ],
       [ "UM.Mesh.MeshWriter.MeshWriter", "classUM_1_1Mesh_1_1MeshWriter_1_1MeshWriter.html", null ],
+      [ "UM.OutputDevice.OutputDevicePlugin.OutputDevicePlugin", "classUM_1_1OutputDevice_1_1OutputDevicePlugin_1_1OutputDevicePlugin.html", null ],
       [ "UM.Tool.Tool", "classUM_1_1Tool_1_1Tool.html", null ],
       [ "UM.View.View.View", "classUM_1_1View_1_1View_1_1View.html", null ]
     ] ],
@@ -54,8 +54,6 @@ var hierarchy =
     [ "UM.Settings.Validators.ResultCodes.ResultCodes", "classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html", null ],
     [ "UM.Signal.Signal", "classUM_1_1Signal_1_1Signal.html", null ],
     [ "UM.Signal.SignalEmitter", "classUM_1_1Signal_1_1SignalEmitter.html", [
-      [ "OutputDevice.OutputDevice", "classOutputDevice_1_1OutputDevice.html", null ],
-      [ "OutputDeviceManager.OutputDeviceManager", "classOutputDeviceManager_1_1OutputDeviceManager.html", null ],
       [ "UM.Application.Application", "classUM_1_1Application_1_1Application.html", [
         [ "UM.Qt.QtApplication.QtApplication", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html", null ]
       ] ],
@@ -71,6 +69,8 @@ var hierarchy =
       [ "UM.JobQueue.JobQueue", "classUM_1_1JobQueue_1_1JobQueue.html", null ],
       [ "UM.Mesh.MeshData.MeshData", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html", null ],
       [ "UM.Operations.OperationStack.OperationStack", "classUM_1_1Operations_1_1OperationStack_1_1OperationStack.html", null ],
+      [ "UM.OutputDevice.OutputDevice.OutputDevice", "classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html", null ],
+      [ "UM.OutputDevice.OutputDeviceManager.OutputDeviceManager", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html", null ],
       [ "UM.Preferences.Preferences", "classUM_1_1Preferences_1_1Preferences.html", null ],
       [ "UM.Qt.QtApplication.QtApplication", "classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html", null ],
       [ "UM.Scene.Scene.Scene", "classUM_1_1Scene_1_1Scene_1_1Scene.html", null ],
@@ -86,9 +86,9 @@ var hierarchy =
     ] ],
     [ "UM.Math.Vector.Vector", "classUM_1_1Math_1_1Vector_1_1Vector.html", null ],
     [ "UM.Mesh.Vertex.Vertex", "classUM_1_1Mesh_1_1Vertex_1_1Vertex.html", null ],
-    [ "OutputDeviceError.WriteRequestFailedError", "classOutputDeviceError_1_1WriteRequestFailedError.html", [
-      [ "OutputDeviceError.DeviceBusyError", "classOutputDeviceError_1_1DeviceBusyError.html", null ],
-      [ "OutputDeviceError.PermissionDeniedError", "classOutputDeviceError_1_1PermissionDeniedError.html", null ],
-      [ "OutputDeviceError.UserCanceledError", "classOutputDeviceError_1_1UserCanceledError.html", null ]
+    [ "UM.OutputDevice.OutputDeviceError.WriteRequestFailedError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1WriteRequestFailedError.html", [
+      [ "UM.OutputDevice.OutputDeviceError.DeviceBusyError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1DeviceBusyError.html", null ],
+      [ "UM.OutputDevice.OutputDeviceError.PermissionDeniedError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1PermissionDeniedError.html", null ],
+      [ "UM.OutputDevice.OutputDeviceError.UserCanceledError", "classUM_1_1OutputDevice_1_1OutputDeviceError_1_1UserCanceledError.html", null ]
     ] ]
 ];
