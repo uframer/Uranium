@@ -25,7 +25,7 @@ var NAVTREEINDEX =
 ".html",
 "classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8dbc979a95b1738f38f8748f9155fc56",
 "classUM_1_1PluginRegistry_1_1PluginRegistry.html#a2d6f53aeb1f36a26686e5c8eb0bd3c3c",
-"classUM_1_1Signal_1_1Signal.html#a7d0ec98c14788e67622fee85ac03e5f4"
+"classUM_1_1Signal_1_1Signal.html#a748ae6a60764463a76a43e6397c0bc85"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classUM_1_1Signal_1_1Signal.html#a748ae6a60764463a76a43e6397c0bc85":[3,0,0,23,0,0],
 "classUM_1_1Signal_1_1Signal.html#a7d0ec98c14788e67622fee85ac03e5f4":[3,0,0,23,0,3],
 "classUM_1_1Signal_1_1SignalEmitter.html":[3,0,0,23,1],
 "classUM_1_1Signal_1_1SignalEmitter.html#a204ed05349d3cb0b74a7258350eae2a6":[3,0,0,23,1,0],
@@ -39,8 +40,8 @@ var NAVTREEINDEX3 =
 "classes.html":[3,1],
 "dir_e40c8783eca56218b28e230c9f341554.html":[4,0,0],
 "files.html":[4,0],
-"functions.html":[3,3,0,0],
 "functions.html":[3,3,0],
+"functions.html":[3,3,0,0],
 "functions_a.html":[3,3,0,1],
 "functions_b.html":[3,3,0,2],
 "functions_c.html":[3,3,0,3],

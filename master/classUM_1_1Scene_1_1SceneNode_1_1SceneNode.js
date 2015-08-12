@@ -36,6 +36,7 @@ var classUM_1_1Scene_1_1SceneNode_1_1SceneNode =
     [ "rotate", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a0797c69cd2419797170a0056372a1d3c", null ],
     [ "scale", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#adf4d67cb2b792a6321c4e95daf720292", null ],
     [ "setCalculateBoundingBox", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ae176f076059e1977d5c08e925e1f1f54", null ],
+    [ "setCenterPosition", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a21130d736641b833badc07aa4f060190", null ],
     [ "setEnabled", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a4c61b9d8cdd91a5cd42bdfd6437de688", null ],
     [ "setMeshData", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a652070c0b93c73f26a1c1c5f2ac081c4", null ],
     [ "setName", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ae9b0c1f79a41020f487a5df3bfdf5916", null ],
