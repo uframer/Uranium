@@ -3,6 +3,7 @@ var NAVTREE =
   [ "Uranium", "index.html", [
     [ "High Level Overview", "md_docs_overview.html", null ],
     [ "Writing Plugins", "md_docs_plugins.html", null ],
+    [ "Translation Guide", "md_docs_translations.html", null ],
     [ "Todo List", "todo.html", null ],
     [ "Classes", null, [
       [ "Class List", "annotated.html", "annotated" ],
@@ -23,9 +24,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8dbc979a95b1738f38f8748f9155fc56",
-"classUM_1_1PluginRegistry_1_1PluginRegistry.html#a2d6f53aeb1f36a26686e5c8eb0bd3c3c",
-"classUM_1_1Signal_1_1Signal.html#a748ae6a60764463a76a43e6397c0bc85"
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8d1b6fe722765177a0024fcf0dde14f9",
+"classUM_1_1PluginRegistry_1_1PluginRegistry.html#a26962a1b8d9247538e3277e2e75e281d",
+"classUM_1_1Signal_1_1Signal.html#a5efd41d710704500ea62d76d3c92cefa"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

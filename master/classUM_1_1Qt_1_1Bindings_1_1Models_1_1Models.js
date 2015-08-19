@@ -2,6 +2,7 @@ var classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models =
 [
     [ "__init__", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#a37d2a573dd043b5b444de4dffabb8f45", null ],
     [ "addMachinesModel", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#ad1d980ba5ab48d5b421cc52bd05082cf", null ],
+    [ "addMachinesModel", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#ad1d980ba5ab48d5b421cc52bd05082cf", null ],
     [ "availableMachinesModel", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#abbc2a308dabaa3c8e47675463900775c", null ],
     [ "directoryListModel", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#a9a070cfe85a4f7437b1f272b01f3375e", null ],
     [ "extensionModel", "classUM_1_1Qt_1_1Bindings_1_1Models_1_1Models.html#ae99758dd965a20459a20c48a6f9052e4", null ],

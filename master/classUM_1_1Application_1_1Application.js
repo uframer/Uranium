@@ -6,6 +6,7 @@ var classUM_1_1Application_1_1Application =
     [ "addMachine", "classUM_1_1Application_1_1Application.html#a14619f97ce6cd0e1ee01459374a0094e", null ],
     [ "functionEvent", "classUM_1_1Application_1_1Application.html#aeabf976ae2d5a8c1226d2582b6be72fd", null ],
     [ "getActiveMachine", "classUM_1_1Application_1_1Application.html#aed32f759f540e468337ffe1b9ed491db", null ],
+    [ "getApplicationLanguage", "classUM_1_1Application_1_1Application.html#ac4ce3ae72e38426926c09b0ff6079698", null ],
     [ "getApplicationName", "classUM_1_1Application_1_1Application.html#aa1a6b8ba97cd1cbf89f73c25773f7c2e", null ],
     [ "getBackend", "classUM_1_1Application_1_1Application.html#aa2459f33bcd0b9663d8ed20551a0eea0", null ],
     [ "getCommandLineOption", "classUM_1_1Application_1_1Application.html#a8595f8b8dcc202297d3db250f449fde2", null ],
