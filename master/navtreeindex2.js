@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classUM_1_1PluginRegistry_1_1PluginRegistry.html#a213d14cc9ef271e77342c129eb467fb5":[4,0,0,18,0,4],
 "classUM_1_1PluginRegistry_1_1PluginRegistry.html#a26962a1b8d9247538e3277e2e75e281d":[4,0,0,18,0,15],
 "classUM_1_1PluginRegistry_1_1PluginRegistry.html#a2d6f53aeb1f36a26686e5c8eb0bd3c3c":[4,0,0,18,0,7],
 "classUM_1_1PluginRegistry_1_1PluginRegistry.html#a450ba3f1e142dc3385790906f6cb105e":[4,0,0,18,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classUM_1_1Settings_1_1Validators_1_1Validator_1_1Validator.html#a878b5984991be82ab753a2cd7564d57d":[4,0,0,22,1,3,0,1],
 "classUM_1_1Settings_1_1Validators_1_1Validator_1_1Validator.html#ad954905118133eb8cdb81f36a0f51958":[4,0,0,22,1,3,0,2],
 "classUM_1_1Signal_1_1Signal.html":[4,0,0,23,0],
-"classUM_1_1Signal_1_1Signal.html#a22a3dd34c6cc7afb681bcedd5bd6ee3c":[4,0,0,23,0,2],
-"classUM_1_1Signal_1_1Signal.html#a4baf1b8076844a5d906729417021b6ee":[4,0,0,23,0,5]
+"classUM_1_1Signal_1_1Signal.html#a22a3dd34c6cc7afb681bcedd5bd6ee3c":[4,0,0,23,0,2]
 };

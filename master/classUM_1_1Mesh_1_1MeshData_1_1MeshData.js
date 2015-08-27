@@ -15,6 +15,7 @@ var classUM_1_1Mesh_1_1MeshData_1_1MeshData =
     [ "getExtents", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a4cf3d4831099cadccaf12cb6af5de065", null ],
     [ "getFaceCount", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a9792bb97c63a25d9b5465b7a6df9ba0f", null ],
     [ "getFileName", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a8d59d7cfcb570bf0117ef3fadb3bb6df", null ],
+    [ "getHash", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a556895d0bc13118125e47cb243390745", null ],
     [ "getIndices", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#ad312d42f0ee862d5ca3002ffb5bbf9e9", null ],
     [ "getIndicesAsByteArray", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a33da7b5cb0174452c88e717a8bc8f8cd", null ],
     [ "getNormals", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#ab4049c5b56526bbf3e3e0a52ecdcfa18", null ],
