@@ -27,6 +27,7 @@ var classUM_1_1Math_1_1Vector_1_1Vector =
     [ "length", "classUM_1_1Math_1_1Vector_1_1Vector.html#af62312f6aacdde7dea13668580b97d58", null ],
     [ "multiply", "classUM_1_1Math_1_1Vector_1_1Vector.html#a6368f2ba51f6806db3653e5436958214", null ],
     [ "normalize", "classUM_1_1Math_1_1Vector_1_1Vector.html#aa1b8a17c9e8bf4a1afc3d608ca5f3bd5", null ],
+    [ "preMultiply", "classUM_1_1Math_1_1Vector_1_1Vector.html#aacb121023cfba8ea7b5043742c3cab1f", null ],
     [ "scale", "classUM_1_1Math_1_1Vector_1_1Vector.html#a55ae983aebbb80651981091356b9261e", null ],
     [ "setData", "classUM_1_1Math_1_1Vector_1_1Vector.html#a501bab00d93634865b274e6837c8c9a5", null ],
     [ "setX", "classUM_1_1Math_1_1Vector_1_1Vector.html#a39a1d2b681cd3438c78a0318431a682c", null ],

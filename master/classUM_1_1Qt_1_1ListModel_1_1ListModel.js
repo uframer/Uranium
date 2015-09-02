@@ -4,7 +4,6 @@ var classUM_1_1Qt_1_1ListModel_1_1ListModel =
     [ "addRoleName", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#ab7ffa13f1987cd6092d692810e65b646", null ],
     [ "appendItem", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a5bdd7ff7d217afa38eead67d0bf90a67", null ],
     [ "clear", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a76f69fdc6d39f39d9bc0ab4befb90765", null ],
-    [ "count", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a0752238f6cffb366f2a485386e734e20", null ],
     [ "data", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a5839b38f70ca1baa87ab612ee782858d", null ],
     [ "find", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#a6d01f891e3325ee2ef0c8a83ffbca921", null ],
     [ "getItem", "classUM_1_1Qt_1_1ListModel_1_1ListModel.html#aa4ef1bbd45998a0ded762fb5abb7f089", null ],

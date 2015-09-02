@@ -169,6 +169,9 @@ var namespaceUM =
         [ "QtMouseDevice", "classUM_1_1Qt_1_1QtMouseDevice_1_1QtMouseDevice.html", "classUM_1_1Qt_1_1QtMouseDevice_1_1QtMouseDevice" ]
       ] ]
     ] ],
+    [ "Resources", null, [
+      [ "Resources", "classUM_1_1Resources_1_1Resources.html", "classUM_1_1Resources_1_1Resources" ]
+    ] ],
     [ "Scene", null, [
       [ "Camera", null, [
         [ "Camera", "classUM_1_1Scene_1_1Camera_1_1Camera.html", "classUM_1_1Scene_1_1Camera_1_1Camera" ]

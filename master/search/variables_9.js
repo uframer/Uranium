@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['parentchanged',['parentChanged',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a254785c87655fb4efa11d94c05c69242',1,'UM::Scene::SceneNode::SceneNode']]],
-  ['progress',['progress',['../classUM_1_1Job_1_1Job.html#ac1c6f8d4995c735d8eb116d1614dcc08',1,'UM::Job::Job']]]
+  ['operationstarted',['operationStarted',['../classUM_1_1Tool_1_1Tool.html#abcd71799f6d4fca639f01429499f1a90',1,'UM::Tool::Tool']]],
+  ['operationstopped',['operationStopped',['../classUM_1_1Tool_1_1Tool.html#ac3d75c9c646333a0a2c343e9ad75c24c',1,'UM::Tool::Tool']]],
+  ['outputdeviceschanged',['outputDevicesChanged',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a974f893dbe9f6c2bd37f8e3072a85291',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]]
 ];

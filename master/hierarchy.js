@@ -51,6 +51,7 @@ var hierarchy =
     [ "UM.View.Renderer.Renderer", "classUM_1_1View_1_1Renderer_1_1Renderer.html", [
       [ "UM.Qt.QtGL2Renderer.QtGL2Renderer", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html", null ]
     ] ],
+    [ "UM.Resources.Resources", "classUM_1_1Resources_1_1Resources.html", null ],
     [ "UM.Settings.Validators.ResultCodes.ResultCodes", "classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html", null ],
     [ "UM.Signal.Signal", "classUM_1_1Signal_1_1Signal.html", null ],
     [ "UM.Signal.SignalEmitter", "classUM_1_1Signal_1_1SignalEmitter.html", [

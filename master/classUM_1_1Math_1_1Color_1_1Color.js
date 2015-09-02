@@ -8,5 +8,9 @@ var classUM_1_1Math_1_1Color_1_1Color =
     [ "b", "classUM_1_1Math_1_1Color_1_1Color.html#ab409540ec5175f212910c28e4e034f5f", null ],
     [ "g", "classUM_1_1Math_1_1Color_1_1Color.html#abdcd994a49096d3bd5777869221d7173", null ],
     [ "r", "classUM_1_1Math_1_1Color_1_1Color.html#afdf08c33aec1e564aff9c0b99d79a2a2", null ],
+    [ "setA", "classUM_1_1Math_1_1Color_1_1Color.html#abe850d36953896f2ab6976503ce7724f", null ],
+    [ "setB", "classUM_1_1Math_1_1Color_1_1Color.html#ac1ae8686e24c8010c13949345a625dae", null ],
+    [ "setG", "classUM_1_1Math_1_1Color_1_1Color.html#a948755c08f511a56f27d7108a76ad78d", null ],
+    [ "setR", "classUM_1_1Math_1_1Color_1_1Color.html#aebae2e0369a85ad3880f7056195b483d", null ],
     [ "setValues", "classUM_1_1Math_1_1Color_1_1Color.html#aba0269d7928b54b60182ebc68682ec98", null ]
 ];
