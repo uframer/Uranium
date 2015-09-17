@@ -13,6 +13,8 @@ var classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow =
     [ "moveEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a704d3349a38fec0907fdc41969697427", null ],
     [ "resizeEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a892934b17643e0fbaf24f19660960b68", null ],
     [ "setBackgroundColor", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a924bf262e9964602cc4b5f2c7ee65cbd", null ],
+    [ "setViewportRect", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#ab0df0e3741a0c90eafa6df1bb773a607", null ],
     [ "toggleFullscreen", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#ad777ffaf2cd8ef16db659559b7632338", null ],
+    [ "viewportRect", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#a253d5bb54c8c499f8beb64d09ac04a5d", null ],
     [ "wheelEvent", "classUM_1_1Qt_1_1Bindings_1_1MainWindow_1_1MainWindow.html#af3fe5c0dc0a092e4626b63e027e13c58", null ]
 ];

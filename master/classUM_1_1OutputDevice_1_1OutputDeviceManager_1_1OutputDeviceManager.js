@@ -8,8 +8,10 @@ var classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager =
     [ "getOutputDeviceIds", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a4e68a337971ecf1eff394dd659ebfd69", null ],
     [ "getOutputDevicePlugin", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a61689cd32219eb927ecf18137b95f7a1", null ],
     [ "getOutputDevices", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#aa9b06e76010f466d37179cd4162f3da1", null ],
+    [ "isWriteInProgress", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ad2fd489d501a23f1a4ec8773d607f94b", null ],
     [ "removeOutputDevice", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a037c981dd91c25c94639fe7da15aa687", null ],
     [ "removeOutputDevicePlugin", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a9e798508cdaf994f11dfb76372bdc906", null ],
     [ "resetActiveDevice", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ade3f131a06b9f255e06e9335262665f7", null ],
-    [ "setActiveDevice", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ac467e176f96071dd9629ca691978a929", null ]
+    [ "setActiveDevice", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ac467e176f96071dd9629ca691978a929", null ],
+    [ "setWriteInProgress", "classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a5290efac938d2abbe3303b8cf23f1ac3", null ]
 ];

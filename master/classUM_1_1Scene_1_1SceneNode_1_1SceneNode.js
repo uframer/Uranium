@@ -1,6 +1,7 @@
 var classUM_1_1Scene_1_1SceneNode_1_1SceneNode =
 [
     [ "__init__", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a3415c693fcc135f6bfcd0f3590a18d14", null ],
+    [ "__deepcopy__", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a68abb007016676854bd26d6649a17f26", null ],
     [ "addChild", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ac0377ebd855bb4cc9b04117e26bae2c4", null ],
     [ "addDecorator", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#afca5628b677d31876e2fd02a925dbc37", null ],
     [ "calculateBoundingBoxMesh", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a1f894b163d58e350b3bf6261471eda8b", null ],

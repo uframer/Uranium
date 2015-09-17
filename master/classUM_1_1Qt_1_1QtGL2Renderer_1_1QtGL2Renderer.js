@@ -15,5 +15,6 @@ var classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer =
     [ "setBackgroundColor", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#aa3e4ac66abdededd34149e95f0fbd489", null ],
     [ "setLightPosition", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#aae55a4b7192e86c00234516a226f01f3", null ],
     [ "setRenderSelection", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a8db6b88e622eb969106dfd9b3cbc13e5", null ],
-    [ "setViewportSize", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a470a533992fe5a13c3c831d0aa6ff36f", null ]
+    [ "setViewportSize", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a470a533992fe5a13c3c831d0aa6ff36f", null ],
+    [ "setWindowSize", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#aad19fdacf1f444c0bb87622b6372a536", null ]
 ];

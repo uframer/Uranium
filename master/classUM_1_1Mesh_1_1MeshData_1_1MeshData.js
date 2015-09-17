@@ -1,6 +1,7 @@
 var classUM_1_1Mesh_1_1MeshData_1_1MeshData =
 [
     [ "__init__", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a602463efb1c57e93158e82ae5e4c4687", null ],
+    [ "__deepcopy__", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a24d2c2d089472ec552e9dd009f7f41cd", null ],
     [ "addColors", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#aeadaf5f948495928b3df2d935337aba1", null ],
     [ "addFace", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a162f6f58901011f0a993b08a0c3fe363", null ],
     [ "addFaceWithNormals", "classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#a39574e6131cf05fdc92ffb3e7f04ed87", null ],

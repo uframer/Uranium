@@ -1,5 +1,12 @@
 var NAVTREEINDEX3 =
 {
+"classUM_1_1Settings_1_1Setting_1_1Setting.html#afabdef177e5c908353292603b1493425":[4,0,0,23,0,1,12],
+"classUM_1_1Settings_1_1Validators_1_1FloatValidator_1_1FloatValidator.html":[4,0,0,23,1,0,0],
+"classUM_1_1Settings_1_1Validators_1_1FloatValidator_1_1FloatValidator.html#a296da2a2334db0a13f933049da1ad8c2":[4,0,0,23,1,0,0,0],
+"classUM_1_1Settings_1_1Validators_1_1FloatValidator_1_1FloatValidator.html#a79f57c5e20aa3ecd409c25de06818eae":[4,0,0,23,1,0,0,2],
+"classUM_1_1Settings_1_1Validators_1_1FloatValidator_1_1FloatValidator.html#acf69833b925876825914816f379897f5":[4,0,0,23,1,0,0,1],
+"classUM_1_1Settings_1_1Validators_1_1IntValidator_1_1IntValidator.html":[4,0,0,23,1,1,0],
+"classUM_1_1Settings_1_1Validators_1_1IntValidator_1_1IntValidator.html#a383edddf67adba8a5612db1d1f951d0e":[4,0,0,23,1,1,0,2],
 "classUM_1_1Settings_1_1Validators_1_1IntValidator_1_1IntValidator.html#a76e4d47e5a64dcbec2f39e668b53032e":[4,0,0,23,1,1,0,0],
 "classUM_1_1Settings_1_1Validators_1_1IntValidator_1_1IntValidator.html#aea0dd0705145dadddb39ad25ad72bccb":[4,0,0,23,1,1,0,1],
 "classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html":[4,0,0,23,1,2,0],
