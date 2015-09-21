@@ -172,6 +172,9 @@ var namespaceUM =
     [ "Resources", null, [
       [ "Resources", "classUM_1_1Resources_1_1Resources.html", "classUM_1_1Resources_1_1Resources" ]
     ] ],
+    [ "SaveFile", null, [
+      [ "SaveFile", "classUM_1_1SaveFile_1_1SaveFile.html", "classUM_1_1SaveFile_1_1SaveFile" ]
+    ] ],
     [ "Scene", null, [
       [ "Camera", null, [
         [ "Camera", "classUM_1_1Scene_1_1Camera_1_1Camera.html", "classUM_1_1Scene_1_1Camera_1_1Camera" ]
@@ -190,9 +193,27 @@ var namespaceUM =
       ] ]
     ] ],
     [ "Settings", null, [
+      [ "Profile", null, [
+        [ "Profile", "classUM_1_1Settings_1_1Profile_1_1Profile.html", "classUM_1_1Settings_1_1Profile_1_1Profile" ]
+      ] ],
+      [ "ProfileOverrideDecorator", null, [
+        [ "ProfileOverrideDecorator", "classUM_1_1Settings_1_1ProfileOverrideDecorator_1_1ProfileOverrideDecorator.html", "classUM_1_1Settings_1_1ProfileOverrideDecorator_1_1ProfileOverrideDecorator" ]
+      ] ],
       [ "Setting", null, [
         [ "IllegalMethodError", "classUM_1_1Settings_1_1Setting_1_1IllegalMethodError.html", null ],
         [ "Setting", "classUM_1_1Settings_1_1Setting_1_1Setting.html", "classUM_1_1Settings_1_1Setting_1_1Setting" ]
+      ] ],
+      [ "SettingOverrideDecorator", null, [
+        [ "SettingOverrideDecorator", "classUM_1_1Settings_1_1SettingOverrideDecorator_1_1SettingOverrideDecorator.html", "classUM_1_1Settings_1_1SettingOverrideDecorator_1_1SettingOverrideDecorator" ]
+      ] ],
+      [ "SettingsCategory", null, [
+        [ "SettingsCategory", "classUM_1_1Settings_1_1SettingsCategory_1_1SettingsCategory.html", "classUM_1_1Settings_1_1SettingsCategory_1_1SettingsCategory" ]
+      ] ],
+      [ "SettingsError", null, [
+        [ "DefinitionNotFoundError", "classUM_1_1Settings_1_1SettingsError_1_1DefinitionNotFoundError.html", "classUM_1_1Settings_1_1SettingsError_1_1DefinitionNotFoundError" ],
+        [ "InvalidFileError", "classUM_1_1Settings_1_1SettingsError_1_1InvalidFileError.html", "classUM_1_1Settings_1_1SettingsError_1_1InvalidFileError" ],
+        [ "InvalidVersionError", "classUM_1_1Settings_1_1SettingsError_1_1InvalidVersionError.html", "classUM_1_1Settings_1_1SettingsError_1_1InvalidVersionError" ],
+        [ "SettingsError", "classUM_1_1Settings_1_1SettingsError_1_1SettingsError.html", null ]
       ] ],
       [ "Validators", null, [
         [ "FloatValidator", null, [

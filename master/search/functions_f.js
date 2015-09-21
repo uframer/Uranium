@@ -19,6 +19,7 @@ var searchData=
   ['reservevertexcount',['reserveVertexCount',['../classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#ab02f14ffaf2741295e63445be31f784f',1,'UM::Mesh::MeshData::MeshData']]],
   ['resetactivedevice',['resetActiveDevice',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ade3f131a06b9f255e06e9335262665f7',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
   ['resetselectionimage',['resetSelectionImage',['../classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#ad085bbf66deeb56cd9e903afd575e253',1,'UM::Qt::QtGL2Renderer::QtGL2Renderer']]],
+  ['resetsettingvalue',['resetSettingValue',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#ab41a29f94d7358122f401479dc61abb7',1,'UM::Settings::Profile::Profile']]],
   ['rotate',['rotate',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a0797c69cd2419797170a0056372a1d3c',1,'UM::Scene::SceneNode::SceneNode']]],
   ['rotatebyaxis',['rotateByAxis',['../classUM_1_1Math_1_1Matrix_1_1Matrix.html#ac4e7feba108ffb9f783f44319e0e6860',1,'UM::Math::Matrix::Matrix']]],
   ['rotationto',['rotationTo',['../classUM_1_1Math_1_1Quaternion_1_1Quaternion.html#a9fed6bb30dca94c16101307b195d5e09',1,'UM::Math::Quaternion::Quaternion']]],

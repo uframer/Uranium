@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['savetofile',['saveToFile',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#a677a38f6570d3d7279be96ce2e43d678',1,'UM::Settings::Profile::Profile']]],
   ['scale',['scale',['../classUM_1_1Math_1_1Vector_1_1Vector.html#a55ae983aebbb80651981091356b9261e',1,'UM.Math.Vector.Vector.scale()'],['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#adf4d67cb2b792a6321c4e95daf720292',1,'UM.Scene.SceneNode.SceneNode.scale()']]],
   ['scalebyfactor',['scaleByFactor',['../classUM_1_1Math_1_1Matrix_1_1Matrix.html#a0caa56d64dd70809edb9070c58341806',1,'UM::Math::Matrix::Matrix']]],
   ['setactivecamera',['setActiveCamera',['../classUM_1_1Scene_1_1Scene_1_1Scene.html#a5fce2055c3915ab6d9bc761892607609',1,'UM::Scene::Scene::Scene']]],
@@ -32,7 +33,7 @@ var searchData=
   ['setlightposition',['setLightPosition',['../classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#aae55a4b7192e86c00234516a226f01f3',1,'UM::Qt::QtGL2Renderer::QtGL2Renderer']]],
   ['setmenuname',['setMenuName',['../classUM_1_1Extension_1_1Extension.html#a5db1bef97711270467954f4712aa0525',1,'UM::Extension::Extension']]],
   ['setmeshdata',['setMeshData',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a652070c0b93c73f26a1c1c5f2ac081c4',1,'UM::Scene::SceneNode::SceneNode']]],
-  ['setname',['setName',['../classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html#acb67bef8a377d74eeb0367d0e21e3b8d',1,'UM::OutputDevice::OutputDevice::OutputDevice']]],
+  ['setname',['setName',['../classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html#acb67bef8a377d74eeb0367d0e21e3b8d',1,'UM.OutputDevice.OutputDevice.OutputDevice.setName()'],['../classUM_1_1Settings_1_1Profile_1_1Profile.html#ab688c44cd787c93ef5cc9e203bcebcf4',1,'UM.Settings.Profile.Profile.setName()']]],
   ['setnormal',['setNormal',['../classUM_1_1Mesh_1_1Vertex_1_1Vertex.html#a6d7c89db8cc84f9f90a50da34e1ed0db',1,'UM::Mesh::Vertex::Vertex']]],
   ['setorientation',['setOrientation',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#abc083bf7ca2b49de671db1a08568122c',1,'UM::Scene::SceneNode::SceneNode']]],
   ['setortho',['setOrtho',['../classUM_1_1Math_1_1Matrix_1_1Matrix.html#aec787dd4d543478293f8502fc3df3a5a',1,'UM::Math::Matrix::Matrix']]],
@@ -41,6 +42,7 @@ var searchData=
   ['setposition',['setPosition',['../classUM_1_1Mesh_1_1Vertex_1_1Vertex.html#ac86262b9db400e8c141c4fb6ab1b068a',1,'UM.Mesh.Vertex.Vertex.setPosition()'],['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#ac79c5d5249864457a91a17b4dc2cee38',1,'UM.Scene.SceneNode.SceneNode.setPosition()']]],
   ['setpriority',['setPriority',['../classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html#a4e409ddeb6c937a854c2157a2af5fd45',1,'UM::OutputDevice::OutputDevice::OutputDevice']]],
   ['setprojectionmatrix',['setProjectionMatrix',['../classUM_1_1Scene_1_1Camera_1_1Camera.html#a10f2278aedef1a32d686e0347b8e0ce3',1,'UM::Scene::Camera::Camera']]],
+  ['setreadonly',['setReadOnly',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#a5ab015a7505e6102e35bb6ab09e56b62',1,'UM::Settings::Profile::Profile']]],
   ['setrenderer',['setRenderer',['../classUM_1_1View_1_1View_1_1View.html#a0fe4556526f3de89381467f0db29d072',1,'UM::View::View::View']]],
   ['setrenderselection',['setRenderSelection',['../classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#a8db6b88e622eb969106dfd9b3cbc13e5',1,'UM::Qt::QtGL2Renderer::QtGL2Renderer']]],
   ['setrequiredplugins',['setRequiredPlugins',['../classUM_1_1Application_1_1Application.html#ae19bfe21399e63063d1250801ae6d53c',1,'UM::Application::Application']]],
@@ -49,6 +51,7 @@ var searchData=
   ['setscale',['setScale',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#acb4a199537cc944adaecf7c7dc45a5f7',1,'UM::Scene::SceneNode::SceneNode']]],
   ['setselectable',['setSelectable',['../classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html#a3cfb2b5f42f89c2b5fa4a4991b1c414b',1,'UM::Scene::SceneNode::SceneNode']]],
   ['setselectiontool',['setSelectionTool',['../classUM_1_1Controller_1_1Controller.html#a5c16d995ca72cd499b65d73c72709bca',1,'UM::Controller::Controller']]],
+  ['setsettingvalue',['setSettingValue',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#a4f81f3136c33c7f89d90655d7f391593',1,'UM::Settings::Profile::Profile']]],
   ['setshortdescription',['setShortDescription',['../classUM_1_1OutputDevice_1_1OutputDevice_1_1OutputDevice.html#a5d5550ca1af0b5747ec325cda45bd662',1,'UM::OutputDevice::OutputDevice::OutputDevice']]],
   ['settimer',['setTimer',['../classUM_1_1Message_1_1Message.html#adc32c4fca69cf6ec25b4a4eed2effced',1,'UM::Message::Message']]],
   ['settoidentity',['setToIdentity',['../classUM_1_1Math_1_1Matrix_1_1Matrix.html#a9f912dd3b55d952ae0f41d920f436dc9',1,'UM::Math::Matrix::Matrix']]],

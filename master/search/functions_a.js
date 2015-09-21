@@ -2,6 +2,7 @@ var searchData=
 [
   ['lastx',['lastX',['../classUM_1_1Event_1_1MouseEvent.html#aaa3475e11a3f33e520e13deeb771465a',1,'UM::Event::MouseEvent']]],
   ['lasty',['lastY',['../classUM_1_1Event_1_1MouseEvent.html#a5736979a0f7d5370252438015181b7bf',1,'UM::Event::MouseEvent']]],
+  ['loadfromfile',['loadFromFile',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#a4ee3bddad9119eea96b2097f94352100',1,'UM::Settings::Profile::Profile']]],
   ['loadplugin',['loadPlugin',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html#a4d01db192fb9bd0b5bd8d9d425a5e78a',1,'UM::PluginRegistry::PluginRegistry']]],
   ['loadplugins',['loadPlugins',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html#a09dc4d9fd70591c6513d0b7486dd5a1e',1,'UM::PluginRegistry::PluginRegistry']]],
   ['loadqttranslation',['loadQtTranslation',['../classUM_1_1Qt_1_1QtApplication_1_1QtApplication.html#abf0dfd91c0c98242709b4a8b5d7653a7',1,'UM::Qt::QtApplication::QtApplication']]],

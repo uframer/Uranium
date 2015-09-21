@@ -22,6 +22,7 @@ var searchData=
   ['reservevertexcount',['reserveVertexCount',['../classUM_1_1Mesh_1_1MeshData_1_1MeshData.html#ab02f14ffaf2741295e63445be31f784f',1,'UM::Mesh::MeshData::MeshData']]],
   ['resetactivedevice',['resetActiveDevice',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ade3f131a06b9f255e06e9335262665f7',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
   ['resetselectionimage',['resetSelectionImage',['../classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html#ad085bbf66deeb56cd9e903afd575e253',1,'UM::Qt::QtGL2Renderer::QtGL2Renderer']]],
+  ['resetsettingvalue',['resetSettingValue',['../classUM_1_1Settings_1_1Profile_1_1Profile.html#ab41a29f94d7358122f401479dc61abb7',1,'UM::Settings::Profile::Profile']]],
   ['resources',['Resources',['../classUM_1_1Resources_1_1Resources.html#a88ad8686eca5495674390355d17d0fce',1,'UM::Resources::Resources']]],
   ['resources',['Resources',['../classUM_1_1Resources_1_1Resources.html',1,'UM::Resources']]],
   ['resultcodes',['ResultCodes',['../classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html',1,'UM::Settings::Validators::ResultCodes']]],

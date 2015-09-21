@@ -7,5 +7,7 @@ var searchData=
   ['pluginobject',['PluginObject',['../classUM_1_1PluginObject_1_1PluginObject.html',1,'UM::PluginObject']]],
   ['pluginregistry',['PluginRegistry',['../classUM_1_1PluginRegistry_1_1PluginRegistry.html',1,'UM::PluginRegistry']]],
   ['polygon',['Polygon',['../classUM_1_1Math_1_1Polygon_1_1Polygon.html',1,'UM::Math::Polygon']]],
-  ['preferences',['Preferences',['../classUM_1_1Preferences_1_1Preferences.html',1,'UM::Preferences']]]
+  ['preferences',['Preferences',['../classUM_1_1Preferences_1_1Preferences.html',1,'UM::Preferences']]],
+  ['profile',['Profile',['../classUM_1_1Settings_1_1Profile_1_1Profile.html',1,'UM::Settings::Profile']]],
+  ['profileoverridedecorator',['ProfileOverrideDecorator',['../classUM_1_1Settings_1_1ProfileOverrideDecorator_1_1ProfileOverrideDecorator.html',1,'UM::Settings::ProfileOverrideDecorator']]]
 ];

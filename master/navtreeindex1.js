@@ -1,5 +1,11 @@
 var NAVTREEINDEX1 =
 {
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a61a52bcffc4933b8a5e0f7c92dff0841":[4,0,0,11,3,0,2],
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a622744a1833a00bbc4fbac2ec857f18b":[4,0,0,11,3,0,5],
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a62e3c5a23dfe57da63f67c89ebfe6f1c":[4,0,0,11,3,0,9],
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a72477dd3dba45a0c9e785ad9f71f1f1a":[4,0,0,11,3,0,16],
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a770b8429ae330c11ce19f49deb4657b7":[4,0,0,11,3,0,18],
+"classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8d1b6fe722765177a0024fcf0dde14f9":[4,0,0,11,3,0,1],
 "classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8dbc979a95b1738f38f8748f9155fc56":[4,0,0,11,3,0,8],
 "classUM_1_1Math_1_1Matrix_1_1Matrix.html#a8e5ce5f60d1696cadf4cacd8857130b7":[4,0,0,11,3,0,21],
 "classUM_1_1Math_1_1Matrix_1_1Matrix.html#a96503d336477ac66b41a21f02eee51b5":[4,0,0,11,3,0,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX1 =
 "classUM_1_1PluginError_1_1PluginError.html#ae700f31c701cec658f9047d8ecb64f5d":[4,0,0,16,1,1],
 "classUM_1_1PluginError_1_1PluginNotFoundError.html":[4,0,0,16,2],
 "classUM_1_1PluginError_1_1PluginNotFoundError.html#a1fa0664a9a7f754db7cf39f3306adf4b":[4,0,0,16,2,0],
-"classUM_1_1PluginError_1_1PluginNotFoundError.html#aaeeb377696652deb33ccd8062a95a07d":[4,0,0,16,2,1],
-"classUM_1_1PluginObject_1_1PluginObject.html":[4,0,0,17,0],
-"classUM_1_1PluginObject_1_1PluginObject.html#a07c690eb09ecc67d847a126112c46857":[4,0,0,17,0,0],
-"classUM_1_1PluginObject_1_1PluginObject.html#a1403020b8dcfdf5574635f21cd5560bc":[4,0,0,17,0,1],
-"classUM_1_1PluginObject_1_1PluginObject.html#aa1c634294b7242d3fbd896fefbe4136b":[4,0,0,17,0,2],
-"classUM_1_1PluginRegistry_1_1PluginRegistry.html":[4,0,0,18,0],
-"classUM_1_1PluginRegistry_1_1PluginRegistry.html#a06fad98b3736599d76ffa1c13bebf56d":[4,0,0,18,0,13]
+"classUM_1_1PluginError_1_1PluginNotFoundError.html#aaeeb377696652deb33ccd8062a95a07d":[4,0,0,16,2,1]
 };

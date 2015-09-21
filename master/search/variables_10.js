@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['writeerror',['writeError',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a815df041e80920ddb2e45885c926af16',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
-  ['writefinished',['writeFinished',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#afc670dbb4a9b1a06721ef9c1c72c4be2',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
-  ['writeprogress',['writeProgress',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ab47a895ee93a2b9acbcb4af82bca8cb9',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
-  ['writestarted',['writeStarted',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#a6a9158b93cb7943059fce8f695b6c13e',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]],
-  ['writesuccess',['writeSuccess',['../classUM_1_1OutputDevice_1_1OutputDeviceManager_1_1OutputDeviceManager.html#ab7e17d20dca44c5d9fde71be1abaae4f',1,'UM::OutputDevice::OutputDeviceManager::OutputDeviceManager']]]
+  ['viewschanged',['viewsChanged',['../classUM_1_1Controller_1_1Controller.html#aac26a96983c121453d7ef2057a640301',1,'UM::Controller::Controller']]],
+  ['visiblechanged',['visibleChanged',['../classUM_1_1Settings_1_1Setting_1_1Setting.html#ae98bb73d8c70f7bd14b8328b58356277',1,'UM::Settings::Setting::Setting']]],
+  ['visiblemessageadded',['visibleMessageAdded',['../classUM_1_1Application_1_1Application.html#a39fbe0e15ad5a2c234e192d0063a7763',1,'UM::Application::Application']]]
 ];

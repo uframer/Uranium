@@ -47,12 +47,19 @@ var hierarchy =
     ] ],
     [ "UM.PluginRegistry.PluginRegistry", "classUM_1_1PluginRegistry_1_1PluginRegistry.html", null ],
     [ "UM.Math.Polygon.Polygon", "classUM_1_1Math_1_1Polygon_1_1Polygon.html", null ],
+    [ "UM.Settings.ProfileOverrideDecorator.ProfileOverrideDecorator", "classUM_1_1Settings_1_1ProfileOverrideDecorator_1_1ProfileOverrideDecorator.html", null ],
     [ "UM.Math.Quaternion.Quaternion", "classUM_1_1Math_1_1Quaternion_1_1Quaternion.html", null ],
     [ "UM.View.Renderer.Renderer", "classUM_1_1View_1_1Renderer_1_1Renderer.html", [
       [ "UM.Qt.QtGL2Renderer.QtGL2Renderer", "classUM_1_1Qt_1_1QtGL2Renderer_1_1QtGL2Renderer.html", null ]
     ] ],
     [ "UM.Resources.Resources", "classUM_1_1Resources_1_1Resources.html", null ],
     [ "UM.Settings.Validators.ResultCodes.ResultCodes", "classUM_1_1Settings_1_1Validators_1_1ResultCodes_1_1ResultCodes.html", null ],
+    [ "UM.SaveFile.SaveFile", "classUM_1_1SaveFile_1_1SaveFile.html", null ],
+    [ "UM.Settings.SettingsError.SettingsError", "classUM_1_1Settings_1_1SettingsError_1_1SettingsError.html", [
+      [ "UM.Settings.SettingsError.DefinitionNotFoundError", "classUM_1_1Settings_1_1SettingsError_1_1DefinitionNotFoundError.html", null ],
+      [ "UM.Settings.SettingsError.InvalidFileError", "classUM_1_1Settings_1_1SettingsError_1_1InvalidFileError.html", null ],
+      [ "UM.Settings.SettingsError.InvalidVersionError", "classUM_1_1Settings_1_1SettingsError_1_1InvalidVersionError.html", null ]
+    ] ],
     [ "UM.Signal.Signal", "classUM_1_1Signal_1_1Signal.html", null ],
     [ "UM.Signal.SignalEmitter", "classUM_1_1Signal_1_1SignalEmitter.html", [
       [ "UM.Application.Application", "classUM_1_1Application_1_1Application.html", [
@@ -78,7 +85,10 @@ var hierarchy =
       [ "UM.Scene.SceneNode.SceneNode", "classUM_1_1Scene_1_1SceneNode_1_1SceneNode.html", [
         [ "UM.Scene.Camera.Camera", "classUM_1_1Scene_1_1Camera_1_1Camera.html", null ]
       ] ],
+      [ "UM.Settings.Profile.Profile", "classUM_1_1Settings_1_1Profile_1_1Profile.html", null ],
       [ "UM.Settings.Setting.Setting", "classUM_1_1Settings_1_1Setting_1_1Setting.html", null ],
+      [ "UM.Settings.SettingOverrideDecorator.SettingOverrideDecorator", "classUM_1_1Settings_1_1SettingOverrideDecorator_1_1SettingOverrideDecorator.html", null ],
+      [ "UM.Settings.SettingsCategory.SettingsCategory", "classUM_1_1Settings_1_1SettingsCategory_1_1SettingsCategory.html", null ],
       [ "UM.Tool.Tool", "classUM_1_1Tool_1_1Tool.html", null ]
     ] ],
     [ "UM.Settings.Validators.Validator.Validator", "classUM_1_1Settings_1_1Validators_1_1Validator_1_1Validator.html", [
